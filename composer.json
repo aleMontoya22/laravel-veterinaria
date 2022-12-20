@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/sanctum": "^3.0",
+        "shalvah/laravel-jsend": "^2.3"
+    }
+}
